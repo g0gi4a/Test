@@ -1,2 +1,10 @@
 Random test
 Random test after second commit
+
+
+git add <File name>
+git status
+
+git clone <URL>
+git commit -m "message" <File name>
+git push -u origin master
